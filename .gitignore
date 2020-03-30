@@ -1,0 +1,7 @@
+*.pyc
+*.swp
+*.log
+*.ini
+config/config.cfg
+drivers/windows/chromedriver_76.exe
+drivers/windows/new/chromedriver.exe
